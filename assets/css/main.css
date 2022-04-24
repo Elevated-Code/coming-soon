@@ -46,13 +46,13 @@
 }
 
 .social-discord {
-    height: 15vh;
-    width: 15vh;
+    height: 10vh;
+    width: 10vh;
 }
 
 .social-icon {
-    height: 10vh;
-    width: 10vh;
+    height: 8vh;
+    width: 8vh;
 }
 
 a {
@@ -81,6 +81,10 @@ a:active {
     margin-right: auto;
     text-align: center;
     color: white;
+}
+
+.do {
+    margin-top: 2rem;
 }
 
 body,
